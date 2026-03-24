@@ -1,5 +1,5 @@
 outs:
-- md5: 47ed5cd94c6a1e8680789bc84ababe3e
-  size: 551816
+- md5: 221b84f8f753ace466db5be614c2ac67
+  size: 551877
   hash: md5
   path: daily_gold_rate.csv
